@@ -65,3 +65,28 @@ dvc rapro
 dvc dag
 
 '''
+
+'''
+
+ dvc add <filename>
+
+ '''
+
+ '''
+
+
+ git add <filename> && git commit -m "file added successfully"
+
+ '''
+
+ '''
+
+ dvc remote add myremote <anyremotelocation>
+
+ '''
+
+ '''
+
+ dvc push
+
+'''
