@@ -49,6 +49,12 @@ pip install -r requirements.txt
 
 '''
 
+dvc init
+
+'''
+
+'''
+
 dvc rapro
 
 '''
